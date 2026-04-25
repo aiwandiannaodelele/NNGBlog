@@ -1,12 +1,12 @@
 const CONFIG = {
-  HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
+  HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示,若为false则只显示一列
   HEO_LOADING_COVER: true, // 页面加载的遮罩动画
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2026-04-25', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2026-04-25', // 建站日期,用于计算网站运行的第几天
 
-  // 首页顶部通知条滚动内容，如不需要可以留空 []
+  // 首页顶部通知条滚动内容,如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '这是乐乐的博客哦~', url: 'https://leleawa.dpdns.org/' }
   ],
@@ -31,12 +31,12 @@ const CONFIG = {
   HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
-  // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
+  // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白'',则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
-  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
+  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序,为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
-  // 右侧个人资料卡牌欢迎语，点击可自动切换
+  // 右侧个人资料卡牌欢迎语,点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
@@ -59,7 +59,7 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp'，
+      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
@@ -113,9 +113,9 @@ const CONFIG = {
       img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
       color_2: '#1f1f1f'
     }
-  ]，
+  ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: true, // 是否显示右侧,点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
@@ -127,7 +127,7 @@ const CONFIG = {
   HEO_SITE_VISIT_TITLE: '访问量:',
   HEO_SITE_VISITOR_TITLE: '访客数:',
 
-  // *****  以下配置无效，只是预留开发 ****
+  // *****  以下配置无效,只是预留开发 ****
   // 菜单配置
   HEO_MENU_INDEX: true, // 显示首页
   HEO_MENU_CATEGORY: true, // 显示分类
@@ -138,7 +138,7 @@ const CONFIG = {
   HEO_POST_LIST_COVER: true, // 列表显示文章封面
   HEO_POST_LIST_COVER_HOVER_ENLARGE: false, // 列表鼠标悬停放大
 
-  HEO_POST_LIST_COVER_DEFAULT: true， // 封面为空时用站点背景做默认封面
+  HEO_POST_LIST_COVER_DEFAULT: true, // 封面为空时用站点背景做默认封面
   HEO_POST_LIST_SUMMARY: true, // 文章摘要
   HEO_POST_LIST_PREVIEW: false, // 读取文章预览
   HEO_POST_LIST_IMG_CROSSOVER: true, // 博客列表图片左右交错
