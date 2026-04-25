@@ -60,7 +60,7 @@ const CONFIG = {
     {
       title_1: 'Docker',
       img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
-      color_1: '#57b6e6',
+      color_1: '#57b6e6'，
       title_2: 'Photoshop',
       img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
       color_2: '#4082c3'
@@ -84,12 +84,12 @@ const CONFIG = {
     {
       title_1: 'Git',
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
-      color_1: '#df5b40',
+      color_1: '#df5b40'，
       title_2: 'Rhino',
       img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
       color_2: '#1f1f1f'
     }
-  ]，
+  ],
 
   HEO_SOCIAL_CARD: false， // 是否显示右侧,点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
