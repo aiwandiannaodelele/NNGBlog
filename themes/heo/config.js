@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与生活囂識栅',
   HEO_HERO_TITLE_3: 'leleawa.dpdns.org',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '照片',
   HEO_HERO_TITLE_5: '我的自拍qwq',
   HEO_HERO_TITLE_LINK: 'https://leleawa.dpdns.org',
   // 英雄区遮罩文字
@@ -34,7 +34,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白'',则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序,为`true`时将强制按最后修改时间倒序
-  //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
+  HERO_RECOMMEND_COVER: 'https://img.notionusercontent.com/s3/prod-files-secure%2F4c2f4505-4e9f-48f3-8377-3dbb021bad59%2F4446e2b0-2906-4077-998c-1563e034ebee%2Fmmexport1777118436441.jpg/size/w=2000?exp=1777271879&sig=cMU17DaPWeD66wMAkQGOkudbBRp3V76W3lBHv7VSA5s&id=0590b93e-5679-8271-b2d7-81e7821cd356&table=block&userId=ab50b104-291a-4737-aa63-19902b2eef46&mtd=so', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语,点击可自动切换
   HEO_INFOCARD_GREETINGS: [
